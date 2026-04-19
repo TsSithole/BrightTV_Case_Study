@@ -42,5 +42,5 @@ Task 5: Presentation and Recommendations
 
 Author :TS Sithole
 Role: Junior Data Analyst
-Project: Bright Coffee Shop Sales Analysis
+Project: Bright TV Channel Analysis
 Date: 19 April 2026
